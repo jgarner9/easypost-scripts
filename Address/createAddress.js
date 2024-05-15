@@ -1,5 +1,3 @@
-const createAddress = () => {
-  console.log("hello")
-};
+const createAddress = () => {};
 
 export { createAddress };

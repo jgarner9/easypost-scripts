@@ -1,1 +1,1 @@
-//NOTE: use import { <fnname> } from "./file/path" syntax
+//NOTE: use import { <funcName> } from "./file/path" syntax

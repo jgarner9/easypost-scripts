@@ -1,0 +1,3 @@
+const createReport = () => {};
+
+export { createReport };

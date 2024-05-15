@@ -1,0 +1,3 @@
+const getBatch = () => {};
+
+export { getBatch };

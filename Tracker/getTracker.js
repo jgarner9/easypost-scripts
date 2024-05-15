@@ -1,0 +1,3 @@
+const getTracker = () => {};
+
+export { getTracker };

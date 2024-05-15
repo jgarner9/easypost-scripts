@@ -1,0 +1,3 @@
+const getAllInsurances = () => {};
+
+export { getAllInsurances };

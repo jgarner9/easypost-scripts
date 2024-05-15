@@ -1,0 +1,3 @@
+const getAllWebhooks = () => {};
+
+export { getAllWebhooks };

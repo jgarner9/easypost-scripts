@@ -1,0 +1,3 @@
+const getParcel = () => {};
+
+export { getParcel };

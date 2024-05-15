@@ -1,0 +1,3 @@
+const refundInsurance = () => {};
+
+export { refundInsurance };

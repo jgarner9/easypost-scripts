@@ -1,0 +1,3 @@
+const getAllBatches = () => {};
+
+export { getAllBatches };

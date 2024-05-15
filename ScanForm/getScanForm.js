@@ -1,0 +1,3 @@
+const getScanForm = () => {};
+
+export { getScanForm };

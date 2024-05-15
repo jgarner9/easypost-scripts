@@ -1,0 +1,3 @@
+const getAllPickups = () => {};
+
+export { getAllPickups };

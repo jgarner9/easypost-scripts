@@ -1,0 +1,3 @@
+const getAllReports = () => {};
+
+export { getAllReports };

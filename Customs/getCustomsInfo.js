@@ -1,0 +1,3 @@
+const getCustomsInfo = () => {};
+
+export { getCustomsInfo };

@@ -1,0 +1,3 @@
+const getCarrierMetadata = () => {};
+
+export { getCarrierMetadata };

@@ -1,0 +1,3 @@
+const createPickup = () => {};
+
+export { createPickup };

@@ -1,0 +1,3 @@
+const getRate = () => {};
+
+export { getRate };

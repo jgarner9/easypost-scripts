@@ -1,0 +1,3 @@
+const createWebhook = () => {};
+
+export { createWebhook };

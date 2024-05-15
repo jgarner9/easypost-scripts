@@ -1,0 +1,3 @@
+const getInsurance = () => {};
+
+export { getInsurance };

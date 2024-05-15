@@ -1,0 +1,3 @@
+const getPickup = () => {};
+
+export { getPickup };

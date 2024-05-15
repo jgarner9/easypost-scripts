@@ -1,0 +1,3 @@
+const regenRate = () => {};
+
+export { regenRate };

@@ -1,3 +1,0 @@
-const buyOrderOneCall = () => {};
-
-export { buyOrderOneCall };

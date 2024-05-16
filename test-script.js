@@ -2,6 +2,7 @@ import { createAddress } from "./Address/createAddress.js";
 import { getAddress } from "./Address/getAddress.js";
 import { addShipmentToBatch } from "./Batch/addShipmentToBatch.js";
 import { createBatch } from "./Batch/createBatch.js";
+import { getAllBatches } from "./Batch/getAllBatches.js";
 import { createParcel } from "./Parcel/createParcel.js";
 import { getParcel } from "./Parcel/getParcel.js";
 import { buyShipment } from "./Shipment/buyShipment.js";

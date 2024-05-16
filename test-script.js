@@ -25,6 +25,7 @@ import { refundInsurance } from "./Insurance/refundInsurance.js";
 import { buyOrder } from "./Order/buyOrder.js";
 import { createOrder } from "./Order/createOrder.js";
 import { retrieveOrder } from "./Order/retrieveOrder.js";
+import { buyPickup } from "./Pickup/buyPickup.js";
 
 //main function, async function to allow for await keyword
 const main = async () => {};

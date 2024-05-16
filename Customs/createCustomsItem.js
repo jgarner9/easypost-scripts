@@ -1,8 +1,8 @@
 import { connectClient } from "../connectClient.js";
 
-const createCustomsItem = () => {
+const createCustomsItem = async (options) => {
   const client = connectClient();
-  const customsInfo = client.CustomsItem.create({ options });
+  const customsInfo = await client.CustomsItem.create({ options });
   return customsInfo;
 };
 

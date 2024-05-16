@@ -19,6 +19,7 @@ import { getCustomsInfo } from "./Customs/getCustomsInfo.js";
 import { getCustomsItem } from "./Customs/getCustomsItem.js";
 import { createForm } from "./Form/createForm.js";
 import { createInsurance } from "./Insurance/createInsurance.js";
+import { getAllInsurances } from "./Insurance/getAllInsurances.js";
 
 //main function, async function to allow for await keyword
 const main = async () => {};

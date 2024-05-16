@@ -34,6 +34,7 @@ import { getRate } from "./Rate/getRate.js";
 import { regenRate } from "./Rate/regenRates.js";
 import { createRefund } from "./Refund/createRefund.js";
 import { getAllRefunds } from "./Refund/getAllRefunds.js";
+import { getRefund } from "./Refund/getRefund.js";
 
 //main function, async function to allow for await keyword
 const main = async () => {};

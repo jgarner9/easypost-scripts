@@ -1,8 +1,8 @@
 import { connectClient } from "../connectClient.js";
 
-const createBatch = (batchOptions) => {
+const createBatch = async (batchOptions) => {
   const client = connectClient();
-  const batch = client.Batch.create(batchOptions)
+  const batch = await client.Batch.create(batchOptions)
   return batch
 };
 

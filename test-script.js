@@ -48,6 +48,7 @@ import { createWebhook } from "./Webhooks/createWebhook.js";
 import { deleteWebhook } from "./Webhooks/deleteWebhook.js";
 import { getAllWebhooks } from "./Webhooks/getAllWebhooks.js";
 import { getWebhook } from "./Webhooks/getWebhook.js";
+import { updateWebhook } from "./Webhooks/updateWebhook.js";
 
 //main function, async function to allow for await keyword
 const main = async () => {};

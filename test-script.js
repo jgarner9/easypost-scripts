@@ -31,6 +31,7 @@ import { createPickup } from "./Pickup/createPickup.js";
 import { getAllPickups } from "./Pickup/getAllPickups.js";
 import { getPickup } from "./Pickup/getPickup.js";
 import { getRate } from "./Rate/getRate.js";
+import { regenRate } from "./Rate/regenRates.js";
 
 //main function, async function to allow for await keyword
 const main = async () => {};

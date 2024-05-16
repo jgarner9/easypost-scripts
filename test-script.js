@@ -28,6 +28,8 @@ import { retrieveOrder } from "./Order/retrieveOrder.js";
 import { buyPickup } from "./Pickup/buyPickup.js";
 import { cancelPickup } from "./Pickup/cancelPickup.js";
 import { createPickup } from "./Pickup/createPickup.js";
+import { getAllPickups } from "./Pickup/getAllPickups.js";
+import { getPickup } from "./Pickup/getPickup.js";
 
 //main function, async function to allow for await keyword
 const main = async () => {};

@@ -10,6 +10,7 @@ import { convertLabelFormat } from "./Shipment/convertLabelFormat.js";
 import { createShipment } from "./Shipment/createShipment.js";
 import { getAllShipments } from "./Shipment/getAllShipments.js";
 import { getShipment } from "./Shipment/getShipment.js";
+import { getBatch } from "./Batch/getBatch.js";
 
 //main function, async function to allow for await keyword
 const main = async () => {};

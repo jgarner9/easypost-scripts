@@ -39,6 +39,8 @@ import { createReport } from "./Report/createReport.js";
 import { getAllReports } from "./Report/getAllReports.js";
 import { getReport } from "./Report/getReport.js";
 import { createScanForm } from "./ScanForm/createScanForm.js";
+import { getAllScanForms } from "./ScanForm/getAllScanForms.js";
+import { getScanForm } from "./ScanForm/getScanForm.js";
 
 //main function, async function to allow for await keyword
 const main = async () => {};

@@ -11,6 +11,8 @@ import { createShipment } from "./Shipment/createShipment.js";
 import { getAllShipments } from "./Shipment/getAllShipments.js";
 import { getShipment } from "./Shipment/getShipment.js";
 import { getBatch } from "./Batch/getBatch.js";
+import { removeShipmentFromBatch } from "./Batch/removeShipmentFromBatch.js";
+import { getCarrierMetadata } from "./CarrierMetadata/getCarrierMetadata.js";
 
 //main function, async function to allow for await keyword
 const main = async () => {};

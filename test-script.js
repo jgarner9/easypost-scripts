@@ -46,6 +46,7 @@ import { getAllTrackers } from "./Tracker/getAllTrackers.js";
 import { getTracker } from "./Tracker/getTracker.js";
 import { createWebhook } from "./Webhooks/createWebhook.js";
 import { deleteWebhook } from "./Webhooks/deleteWebhook.js";
+import { getAllWebhooks } from "./Webhooks/getAllWebhooks.js";
 
 //main function, async function to allow for await keyword
 const main = async () => {};

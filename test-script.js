@@ -42,6 +42,7 @@ import { createScanForm } from "./ScanForm/createScanForm.js";
 import { getAllScanForms } from "./ScanForm/getAllScanForms.js";
 import { getScanForm } from "./ScanForm/getScanForm.js";
 import { createTracker } from "./Tracker/createTracker.js";
+import { getAllTrackers } from "./Tracker/getAllTrackers.js";
 
 //main function, async function to allow for await keyword
 const main = async () => {};

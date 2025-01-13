@@ -1,0 +1,1 @@
+Boilerplate functions for EasyPost API. Create a .env file in the root directory, and set EP_PROD_KEY and EP_TEST_KEY to your EasyPost Production and Test keys. Set which key you are applying in the connectClient.js file on lines 6 and 7. All functions are imported into test-script.js, and you can run them in the main function. To run test-script.js, use node test-script.js
